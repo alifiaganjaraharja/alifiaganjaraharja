@@ -13,7 +13,10 @@ I'm Alifia, a Data Analyst based in Bandung, Indonesia. I'm passionate about sol
 - 📈 Data Analyst  
   
 
-- 🪪 Certified Google Data Analytics   
+- 🪪 Certified Google Data Analytics
+
+  
+- 🪪 Certified IBM Data Fundamental
   
 
 - 🎓 Bachelor of Economics  
