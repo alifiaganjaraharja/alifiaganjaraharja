@@ -1,9 +1,7 @@
-## Hey everyone, Alifia is here! 👋🏼  
+## Welcome to my GitHub profile!  
   
 
 
-
-### and welcome to my GitHub profile!  
 I'm Alifia, a Data Analyst based in Bandung, Indonesia. I'm passionate about solving problems by leveraging data analytics to help companies make data-driven decisions. With a strong foundation in the main ideas and concepts of Data Analytics, and proficiency in technical tools such as MS Excel, Google Spreadsheet, SQL, R Programming, Python, and Tableau to complete the analysis process, I aim to combine these expertise with a business point of view to deliver impactful solutions.    
   
 
