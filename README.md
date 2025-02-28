@@ -47,8 +47,6 @@ I'm Alifia, a self-taught and certified Data Analyst based in Bandung, Indonesia
   
 
 <br/>  
-- [IMDb SQL In Action!](https://thisisrealfia.wixsite.com/mysite/imdb): Analyzed a Movie Datasets with SQL (BigQuery).
-  
 - [The Deep Dive: Creative Community](https://thisisrealfia.wixsite.com/mysite/knownunknown-case-study): Analyzed the overall social media performance within approximately ten top creative communities, and transformed and analyzed a community questionnaire to identify members' wants and expectations.    
   
 
