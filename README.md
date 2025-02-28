@@ -2,7 +2,7 @@
   
 
 
-I'm Alifia, a Data Analyst based in Bandung, Indonesia. I'm passionate about solving problems by leveraging data analytics to help companies make data-driven decisions. With a strong foundation in the main ideas and concepts of Data Analytics, and proficiency in technical tools such as MS Excel, Google Spreadsheet, SQL, R Programming, Python, and Tableau to complete the analysis process, I aim to combine these expertise with a business point of view to deliver impactful solutions.    
+I'm Alifia, a self-taught and certified Data Analyst based in Bandung, Indonesia completely passionate and obsessed about solving problems by leveraging data analytics to help companies make data-driven decisions. With a strong foundation in the main ideas and concepts of Data Analytics, and proficiency in technical tools such as MS Excel, Google Spreadsheet, SQL, R Programming, Python, Tableau, and Looker to complete the analysis process, I aim to combine these expertise with a business point of view to deliver impactful solutions.    
   
 
 
@@ -47,6 +47,8 @@ I'm Alifia, a Data Analyst based in Bandung, Indonesia. I'm passionate about sol
   
 
 <br/>  
+- [IMDb SQL in Action!](https://thisisrealfia.wixsite.com/mysite/imdb): Analyzed a movie dataset with SQL (BigQuery).
+
 
 - [The Deep Dive: Creative Community](https://thisisrealfia.wixsite.com/mysite/knownunknown-case-study): Analyzed the overall social media performance within approximately ten top creative communities, and transformed and analyzed a community questionnaire to identify members' wants and expectations.    
   
