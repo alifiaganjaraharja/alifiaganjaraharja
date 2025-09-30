@@ -16,8 +16,7 @@ As a self-taught and certified Data Analyst based in Bandung, Indonesia, I am co
 
 - 🪪 Certified Google Data Analytics
 
-  
-- 🪪 Certified IBM Data Fundamental
+
   
 
 
