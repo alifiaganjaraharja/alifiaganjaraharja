@@ -2,7 +2,7 @@
   
 
 
-As a self-taught and certified Data Analyst based in Bandung, Indonesia, I am completely passionate and obsessed with solving problems by leveraging data analytics to help companies make data-driven decisions. With a strong foundation in the main ideas and concepts of Data Analytics, and proficiency in technical tools such as MS Excel, Google Spreadsheet, SQL, R Programming, Python, Tableau, Power BI, and Looker to complete the analysis process, I aim to combine these expertise with a business point of view to deliver impactful solutions.    
+As a self-taught and certified Data Analyst based in Bandung, Indonesia, I am deeply passionate about solving problems by leveraging data analytics to help companies make data-driven decisions. With a strong foundation in the main ideas and concepts of Data Analytics, and proficiency in technical tools such as MS Excel, Google Spreadsheet, SQL, R Programming, Python, Tableau, Power BI, and Looker to complete the analysis process, I aim to combine these expertise with a business point of view to deliver impactful solutions.    
   
 
 
