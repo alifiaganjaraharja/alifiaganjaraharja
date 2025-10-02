@@ -17,6 +17,8 @@ As a self-taught and certified Data Analyst based in Bandung, Indonesia, I am de
 - 🪪 Certified Google Data Analytics
 
 
+- 🪪 Completed DataCamp Associate Data Analyst in SQL Track
+
   
 
 
