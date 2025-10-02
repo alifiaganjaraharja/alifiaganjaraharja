@@ -43,26 +43,6 @@ As a self-taught and certified Data Analyst based in Bandung, Indonesia, I am de
 <br/>  
 
 
-## Projects  
-  
-
-<br/>  
-
-- [The Deep Dive: Creative Community](https://thisisrealfia.wixsite.com/mysite/knownunknown-case-study): Analyzed the overall social media performance within approximately ten top creative communities, and transformed and analyzed a community questionnaire to identify members' wants and expectations.    
-  
-
-- [Stepping up: A Comprehensive Sneakbag Business and Market Analysis](https://www.kaggle.com/code/alifiaganjaraharja/da-portfolio-sneakbag-analysis-with-r): Analyzed the sales performance trend over three months and created a dynamic Tableau dashboard resulting in six visualizations.   
-  
-
-- [Breath of Fresh Data: NAFAS Air Quality Case Study](https://thisisrealfia.wixsite.com/mysite/nafas-case-study): Analyzed data from the sensors of 20 stations in Jakarta to identify trends in AQI and other metrics, interpreted trends in NOx, SO2, CO, and O3, and developed a dynamic yet informative Tableau dashboard resulting in three visualizations.    
-  
-
-- [GDAC Capstone Project: Bellabeat with R](https://www.kaggle.com/code/alifiaganjaraharja/gdac-capstone-project-bellabeat-with-r): Analyze the usage data of one of Bellabeat's products to understand how consumers are using their smart devices, and provide insights to make high-level recommendations that will guide their marketing strategy.   
-  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
